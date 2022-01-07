@@ -1,14 +1,20 @@
 
-![herimg](./Hero_Image.png)
-# Hello, folks! <img src="https://raw.githubusercontent.com/austenmarden/austenmarden/master/wave-cute.gif" width="30px">
+![hero_img](./Hero_Image.png)
+# Hey there! <img src="https://raw.githubusercontent.com/austenmarden/austenmarden/master/wave-cute.gif" width="30px">
+
+  insert about me section
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=austenmarden)
 
+# Tech & Tools!
+
+  insert badges for development tools
+
 <a href="https://github.com/austenmarden/austenmarden">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austenmarden&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=austenmarden&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=262D3D" alt="Austen's GitHub Stats" />
 </a>
 <a href="https://github.com/austenmarden/austenmarden">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=austenmarden&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Austen's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austenmarden&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=262D3D&langs_count=3" />
 </a>
 
 <!-- 
