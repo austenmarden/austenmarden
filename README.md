@@ -1,10 +1,14 @@
-### Hi there 👋
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=austenmarden&show_icons=true)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=austenmarden&theme=blue-green)
+# Hello, folks! <img src="https://tenor.com/view/wave-cute-animation-cartoon-hi-gif-16995073" width="30px">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=austenmarden)
+
+<a href="https://github.com/austenmarden/austenmarden">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austenmarden&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/austenmarden/austenmarden">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=austenmarden&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Austen's GitHub Stats" />
+</a>
+
 <!-- 
 
 badges: visitor
