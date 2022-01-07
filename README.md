@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=austenmarden&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=austenmarden&theme=blue-green)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=austenmarden)
+<!-- 
+
+badges: visitor
+
+
+- about me
+
+- tools
+
+- 
+
+
+>
+
 <!--
 **austenmarden/austenmarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
