@@ -1,4 +1,6 @@
-# Hello, folks! <img src="https://tenor.com/view/wave-cute-animation-cartoon-hi-gif-16995073" width="30px">
+
+![herimg](./Hero_Image.png)
+# Hello, folks! <img src="https://raw.githubusercontent.com/austenmarden/austenmarden/master/wave-cute.gif" width="30px">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=austenmarden)
 
