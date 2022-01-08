@@ -12,10 +12,16 @@
   ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-  
+  ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
+
   ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Tools-Mirosoft-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
+  
+  ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Tools-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Tools-MicrosoftOffice-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Tools-Apple-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
   
   ![](https://img.shields.io/badge/Media-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
